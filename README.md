@@ -3,8 +3,11 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
+🌐 **Live Demo:** [HR Analytics Dashboard](YOUR_STREAMLIT_URL)
 
 > A SQL-first HR analytics project answering **10 real business questions** using SQLite, window functions, CTEs, and CASE statements — with visualizations for executive reporting.
 
@@ -197,4 +200,3 @@ Built by **Anto Valar Beena Francis** | [LinkedIn](https://www.linkedin.com/in/b
 ---
 
 ⭐ **If this helped you, drop a star on the repo!**
-"# hr-workforce-analytics" 
