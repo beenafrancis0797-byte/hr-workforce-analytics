@@ -190,7 +190,7 @@ jupyter>=1.0.0
 
 ## 🙋 About
 
-Built by **[Your Name]** | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [GitHub](https://github.com/YOUR_GITHUB)
+Built by **[Your Name]** | [LinkedIn](www.linkedin.com/in/beena-francis-670647317) | [GitHub](https://github.com/beenafrancis0797-byte)
 
 *Part of my Data Analyst Portfolio — open to data analyst / business analyst roles.*
 
