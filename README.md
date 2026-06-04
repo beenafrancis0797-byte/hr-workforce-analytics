@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-🌐 **Live Demo:** [HR Analytics Dashboard](YOUR_STREAMLIT_URL)
+🌐 **Live Demo:** [HR Analytics Dashboard](https://hr-workforce-analytics-eyhp7fhgyza7fepbxfcdmb.streamlit.app/)
 
 > A SQL-first HR analytics project answering **10 real business questions** using SQLite, window functions, CTEs, and CASE statements — with visualizations for executive reporting.
 
