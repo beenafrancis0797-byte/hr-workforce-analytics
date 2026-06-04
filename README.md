@@ -190,7 +190,7 @@ jupyter>=1.0.0
 
 ## 🙋 About
 
-Built by **Anto Valar Beena Francis** | [LinkedIn](www.linkedin.com/in/beena-francis-670647317) | [GitHub](https://github.com/beenafrancis0797-byte)
+Built by **Anto Valar Beena Francis** | [LinkedIn](https://www.linkedin.com/in/beena-francis-670647317) | [GitHub](https://github.com/beenafrancis0797-byte)
 
 *Part of my Data Analyst Portfolio — open to data analyst / business analyst roles.*
 
